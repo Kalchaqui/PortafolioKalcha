@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Iceland&family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
     margin: 0;
@@ -14,7 +13,7 @@ body {
 }
 
 .destaqueCeleste {
-    color:#22D4FD ;
+    color:#00FF00 ;
 }
 
 .presentacion {
@@ -32,17 +31,18 @@ body {
 }
 
 .presentacion_contenido_titulo{
-    font-size: 36px;
-    font-family: "Krona One", serif;
+    font-size: 40px;
+    font-family: "Iceland", serif;
     font-weight: 400;
     font-style: normal;
 }
 
 .presentacion_contenido_texto{
-    font-size: 24px;
-    font-family: "Montserrat", serif;
+    font-size: 30px;
+    font-family: "Iceland", serif;
     font-optical-sizing: auto;
-    font-weight: 600;
+    font-weight: 400;
+
     font-style: normal;
 }
 
@@ -56,18 +56,18 @@ body {
 
 .presentacion_enlaces_link{
     width: 378px;
-    border: 2px solid #22D4FD;
+    border: 2px solid #00FF00;
     text-align: center;
     padding: 21.5px 0;
     border-radius: 8px;
-    font-family: "Montserrat", serif;
+    font-family: "Iceland", serif;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 400;
     text-decoration: none;
     color: #f6f6f6;
 }
 .presentacion_enlaces_subtitulos{
-font-family: "krona One", sant serif;
+font-family: "Iceland", serif;
 font-size: 24px;
 font-weight: 400;
 }
